@@ -1,0 +1,23 @@
+.my-bg{
+  background-color: red !important;
+  text-align: center;
+  padding:3em;
+  color:white !important;
+}
+.myDiv{
+  text-align: center;
+}
+.card:hover{
+  opacity:0.7;
+}
+img:hover{
+    box-shadow:20px 20px 20px 10px grey;
+}
+.myCss{
+  padding: 3px;
+}
+.myDiv1{
+  height: 300px;
+  width:300px;
+  text-align: center;
+}
